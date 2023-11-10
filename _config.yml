@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Richard Hartigan
-description: "Hi I'm Richard. I've enjoyed an amazing career in Digital Media. I'm now looking to explore the exciting world of data science. 
+description: "Hi I'm Richard. I've enjoyed an amazing career in Digital Media. I'm now looking to explore the exciting world of data science."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.richardhartigan.com" # the base hostname & protocol for your site, e.g. http://example.com
 
