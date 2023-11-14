@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Richard Hartigan
-description: "Hi I'm Richard. I've enjoyed an amazing career in Digital Media. I'm now looking to explore the exciting world of data science."
+description: "Hi I'm Richard. For the past 15 years I've worked in Digital Media, advising some of the worlds largest brands how to mix technology, creativity and innovation to maximise their return on investment.  I am passionate about translating data into insights that can drive meaningful busines action. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.richardhartigan.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,7 +17,7 @@ url: "www.richardhartigan.com" # the base hostname & protocol for your site, e.g
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "London, UK"
-resume_url: /docs/resume.docx
+resume_url: https://www.richardhartigan.com/p/about-me.html
 avatar_image: /img/RAH.jpeg
 
 #-------------------------------
