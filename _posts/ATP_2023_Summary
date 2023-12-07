@@ -1,9 +1,0 @@
----
-layout: post
-title: ATP 2023 Summary 
-image: "/posts/tennis data djo.jpeg"
-tags: [Tableau, Data Viz]
----
-
-This is a Tableau Dashboard that summarises the ATP 2023 Performance for the Top10 players in the world. 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/ATP2023Summary/ATP2023Summary?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
